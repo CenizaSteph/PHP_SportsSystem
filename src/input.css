@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbtn{
+    @apply rounded-full py-3 px-10 text-sm font-extrabold tracking-wider;
+}
